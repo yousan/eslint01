@@ -1,0 +1,14 @@
+{
+  "name": "eslint01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:yousan/eslint01.git",
+    "type": "git"
+  },
+  "author": "Yousan_O <yousan@l2tp.org>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.6.0"
+  }
+}
